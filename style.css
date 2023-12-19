@@ -1,0 +1,33 @@
+/*universal Selector*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+  list-style-type: none;
+}
+/*element or name selector*/
+label {
+  color: rgb(98, 0, 255);
+}
+/*attribute selector*/
+
+input[type="text"] {
+  border: 2px solid orange;
+
+  text-transform: capitalize;
+
+  width: 200px;
+
+  padding: 3px;
+
+  border-radius: 10px;
+
+  color: chocolate;
+}
+button[type="submit"]:hover{
+  color: chocolate;
+  background-color: lavender;
+  width: 80px;
+  border-radius: 5px;
+}
