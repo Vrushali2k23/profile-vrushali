@@ -1,0 +1,74 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap">
+
+
+.table{
+    ba
+}
+
+.mainDiv{  
+      
+    margin-left: 0px;
+}
+
+
+.headerDiv{background-color: rgb(37, 226, 226);
+    font-size: 50px;
+    font-style: italic;
+    margin-left: px;
+}
+
+.homeMain{
+    margin-left: px;
+    background-color: rgb(210, 245, 95);
+}
+
+.tagDiv{
+    font-size: 100px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+}
+
+.headingHome{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.headingHome1{
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+
+#highlight{
+    color: rgb(175, 9, 9); 
+    }
+.bodyMain{
+    display: inline;
+    display: flex;
+}
+
+#imgFirst{
+    width: 90%;
+}    
+#imgSec{
+    width: 90%;
+}
+
+h5{
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-style: italic;   
+    margin-top: 5px; 
+}
+
+.paraCom{
+    font-size: 20px;
+}
+
+
+.mainBottom{
+    margin-top: 150px;
+    text-align: end;
+}
