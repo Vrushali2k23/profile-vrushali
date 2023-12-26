@@ -1,0 +1,66 @@
+/*universal Selector*/
+* {
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-align: bottom;
+    font-family: "poppins", sans-serif;
+    list-style-type: none;
+    border-radius: 20px;
+    
+  }
+  /*element or name selector*/
+  label {
+    color: rgb(1, 1, 1);
+
+    
+  }
+  /*attribute selector*/
+  
+  input[type="Email Id"] 
+
+
+{
+
+    border: 2px solid rgb(7, 7, 7);
+  
+    text-transform: capitalize;
+  
+    width: 300px;
+  
+    padding: 30px;
+  
+    border-radius: 20px;
+  
+    color: rgb(10, 10, 10);
+
+    
+  }
+  input[type="Unsubscribe Reason"] {
+
+    border: 2px solid rgb(9, 9, 9);
+  
+    text-transform: capitalize;
+  
+    width: 300px;
+  
+    padding: 30px;
+  
+    border-radius: 20px;
+  
+    color: rgb(10, 10, 10);
+   
+    
+
+  }
+
+
+  button[type="Unsubscribe"]:hover{
+    color: rgb(7, 7, 7);
+    background-color: lavender;
+    width: 80px;
+    border-radius: 15px;
+
+    padding-bottom: 30px;
+  }
+  
