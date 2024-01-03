@@ -1,0 +1,108 @@
+.mainDiv{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 500px;
+    width: 450px;
+    background-color: rgb(68, 249, 249);
+    box-shadow: 6px 6px 34px 4px rgb(32, 71, 101);
+
+}
+
+h1{
+    text-align: center; color: rgb(176, 179, 16);
+    text-shadow: 0px 0px 22px rgba(252, 255, 254, 1);
+
+}
+.resultDiv{background-color: aliceblue;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.feelDive1{
+    font-size: large;
+    font-weight: 600;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-left: 20px;
+    width: 175px;
+    height: 150px;
+    margin-top: 20px;
+    background-color: rgb(101, 105, 108);
+    box-shadow: 6px 6px 34px 4px rgb(32, 71, 101);
+
+}
+
+.feelDive2{
+    font-size: large;
+    font-weight: 600;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 175px;
+    height: 150px;
+    margin-top: 20px;
+    background-color: rgb(101, 105, 108);
+    box-shadow: 6px 6px 34px 4px rgb(32, 71, 101);
+    }
+.feelDiv{background-color: rgb(202, 216, 228);
+    display: inline-flex;
+    box-sizing: border-box;
+    
+    width: 405px;
+    margin-left: 0;
+    height: 200px;
+    margin-right: 20px;
+
+}
+
+.mainfilldiv{background-color: rgb(202, 216, 228);
+ height: 350px;
+ width: 410px;
+ box-sizing: border-box;
+ border: 1px solid rgb(203, 33, 33) ;
+ margin-left: 20px;
+ height: 320px;
+
+}
+input[type="number"]{width: 150px;
+    height: 50px;
+    text-align: center;
+    margin-top: 5px;
+    
+}
+.labelDiv{margin-top: 15px;}
+
+.buttonDiv{
+    display: block;
+}
+
+.buttonDiv1{
+    margin-top: 15px;
+    width: 370px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    font-weight: 900;
+    background-color: rgb(55, 76, 241);
+    color: aliceblue;
+    border-radius: 5px;
+}
+.buttonDiv2{
+    margin-top: 10px;
+    width: 370px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    font-weight: 900;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 5px;
+    
+}
